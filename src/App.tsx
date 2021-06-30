@@ -2,7 +2,7 @@ import './App.css';
 import { AddTask } from './Components/AddTasks/AddTask';
 import TaskView from './Components/TaskView/TaskView';
 import { getAllTasks, addTask, saveTasks } from './Utility/Storage';
-import { useRef, useState } from 'react';
+import { useState } from 'react';
 import { Task } from './Models/Task.model';
 
 function App() {
