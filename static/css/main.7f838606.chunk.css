@@ -1,0 +1,2 @@
+*{margin:0;padding:0;box-sizing:border-box}body,html{background-color:hsla(0,0%,100%,.918);height:100vh;overflow-x:hidden}#root{height:100%}.view-container{display:grid;grid-template-columns:1fr 23fr;grid-column-gap:1em;width:100%;height:100%}.task-view-container{display:flex;flex-direction:row;justify-content:space-around;margin:1em;padding:1em}.task-view{min-width:30%;max-width:30%;border-right:2px solid #eee;padding:0 8px}.task-title{font-size:1.5em;font-weight:700;color:#005ba1}
+/*# sourceMappingURL=main.7f838606.chunk.css.map */
