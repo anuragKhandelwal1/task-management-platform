@@ -1,0 +1,20 @@
+.task-view-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 1em;
+  padding: 1em;
+}
+
+.task-view {
+  min-width: 30%;
+  max-width: 30%;
+  border-right: 2px solid #eee;
+  padding: 0px 8px;
+}
+
+.task-title {
+  font-size: 1.5em;
+  font-weight: 700;
+  color: #005ba1;
+}
